@@ -3,9 +3,9 @@ Inventory Management System - Task-2
 This project is a fully functional "Inventory Management System" developed using Python, SQLite, and Tkinter. The system allows users to manage products, track inventory levels, and generate important reports such as low-stock alerts and sales summaries.
 
 Features
-- Add Products**: Add new products to the inventory with details like name, category, quantity, and price.
-- Edit Products**: Modify the information of existing products.
-- Delete Products**: Remove products from the inventory.
+- Add Products: Add new products to the inventory with details like name, category, quantity, and price.
+- Edit Products: Modify the information of existing products.
+- Delete Products: Remove products from the inventory.
 - Low-Stock Alerts: Generate alerts when product quantity goes below the threshold.
 - User Authentication: Secure login functionality to restrict unauthorized access to the system.
 
@@ -17,8 +17,7 @@ Technologies Used
 Default Credentials
 - Username: `admin`
 - Password: `password123` 
-## How to Use
-
+ How to Use
 1. Login: Use the default username and password or create your own by modifying the system.
 2. Main Screen:
    - View the list of products in a table.
